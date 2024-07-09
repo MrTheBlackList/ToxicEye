@@ -7,46 +7,95 @@ Program for remote control of Windows computers via Telegram bot. Written in C#.
 
 # :fallen_leaf: Functions:
 
-| **System Information**    | **Devices**         | **Clipboard**      | **Processes**         |
-|---------------------------|---------------------|--------------------|-----------------------|
-| ComputerInfo              | Webcam              | ClipboardSet       | ProcessList           |
-| BatteryInfo               | Microphone          | ClipboardGet       | ProcessKill           |
-| Location                  | OpenCD              |                    | ProcessStart          |
-| Whois                     | CloseCD             |                    | TaskManagerDisable    |
-| ActiveWindow              |                     |                    | TaskManagerEnable     |
-| Desktop                   |                     |                    | MinimizeAllWindows    |
-| GetPasswords              |                     |                    | MaximizeAllWindows    |
-| GetCreditCards            |                     |                    |                       |
-| GetHistory                |                     |                    |                       |
-| GetBookmarks              |                     |                    |                       |
-| GetCookies                |                     |                    |                       |
-| GetDesktop                |                     |                    |                       |
+### System Information 
+- ComputerInfo
+- BatteryInfo
+- Location
+- Whois
+- ActiveWindow
+- Desktop
+- GetPasswords
+- GetCreditCards
+- GetHistory
+- GetBookmarks
+- GetCookies
+- GetDesktop
 
-| **Files and Directories** | **Applications and Platforms** | **Network**        | **Download and Upload** |
-|---------------------------|--------------------------------|--------------------|-------------------------|
-| ListFiles                 | GetFileZilla                   | NetDiscover        | DownloadFile            |
-| RemoveFile                | GetDiscord                     |                    | UploadFile              |
-| RemoveDir                 | GetTelegram                    |                    |                         |
-| MoveFile                  | GetSteam                       |                    |                         |
-| MoveDir                   |                                |                    |                         |
-| CopyFile                  |                                |                    |                         |
-| CopyDir                   |                                |                    |                         |
-| EncryptFileSystem         |                                |                    |                         |
-| DecryptFileSystem         |                                |                    |                         |
+### Devices
+- Webcam
+- Microphone
+- OpenCD
+- CloseCD
 
-| **Running Files**         | **Audio**         | **Display and Input** | **System**         | **Others**  |
-|---------------------------|-------------------|-----------------------|--------------------|-------------|
-| RunFile                   | AudioVolumeSet    | SetWallPaper          | Shell              | Speak       |
-| RunFileAdmin              | AudioVolumeGet    | BlockInput            | MessageBox         | Help        |
-|                           |                   | Monitor(off/on)       | OpenURL            | About       |
-|                           |                   | DisplayRotate         | SendKeyPress       | Uninstall   |
-|                           |                   |                       | ForkBomb           |             |
-|                           |                   |                       | BsoD               |             |
-|                           |                   |                       | OverwriteBootSector|             |
-|                           |                   |                       | Shutdown           |             |
-|                           |                   |                       | Reboot             |             |
-|                           |                   |                       | Hibernate          |             |
-|                           |                   |                       | Logoff             |             |
+### Clipboard
+- ClipboardSet
+- ClipboardGet
+
+### Processes
+- ProcessList
+- ProcessKill
+- ProcessStart
+- TaskManagerDisable
+- TaskManagerEnable
+- MinimizeAllWindows
+- MaximizeAllWindows
+
+### Files and Directories
+- ListFiles
+- RemoveFile
+- RemoveDir
+- MoveFile
+- MoveDir
+- CopyFile
+- CopyDir
+- EncryptFileSystem
+- DecryptFileSystem
+
+### Applications and Platforms
+- GetFileZilla
+- GetDiscord
+- GetTelegram
+- GetSteam
+
+### Network
+- NetDiscover
+
+### Download and Upload
+- DownloadFile
+- UploadFile
+
+### Running Files
+- RunFile
+- RunFileAdmin
+
+### Audio
+- AudioVolumeSet
+- AudioVolumeGet
+
+### Display and Input
+- SetWallPaper
+- BlockInput
+- Monitor(off/on)
+- DisplayRotate
+
+### System
+- Shell
+- MessageBox
+- OpenURL
+- SendKeyPress
+- ForkBomb
+- BsoD
+- OverwriteBootSector
+- Shutdown
+- Reboot
+- Hibernate
+- Logoff
+
+### Others
+- Speak
+- Help
+- About
+- Uninstall
 
 # :hammer: Compiling Guide:
 
