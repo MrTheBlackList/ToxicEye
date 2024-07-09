@@ -1,5 +1,5 @@
-# ToxicEyeffffdfgfdgfdf
- 🔱 ToxicEye (TIKUS + PENCURI + CLIPPER)
+# 🔱 ToxicEye
+
 Program untuk kendali jarak jauh komputer Windows melalui bot Telegram. Ditulis dalam C#
 
 
