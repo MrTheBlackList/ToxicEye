@@ -7,46 +7,46 @@ Program for remote control of Windows computers via Telegram bot. Written in C#.
 
 # :fallen_leaf: Functions:
 
-| **System Information** | **Devices** | **Clipboard** | **Processes** |
-|------------------------|-------------|---------------|---------------|
-| ComputerInfo           | Webcam      | ClipboardSet  | ProcessList   |
-| BatteryInfo            | Microphone  | ClipboardGet  | ProcessKill   |
-| Location               | OpenCD      |               | ProcessStart  |
-| Whois                  | CloseCD     |               | TaskManagerDisable |
-| ActiveWindow           |             |               | TaskManagerEnable |
-| Desktop                |             |               | MinimizeAllWindows |
-| GetPasswords           |             |               | MaximizeAllWindows |
-| GetCreditCards         |             |               |               |
-| GetHistory             |             |               |               |
-| GetBookmarks           |             |               |               |
-| GetCookies             |             |               |               |
-| GetDesktop             |             |               |               |
+| **System Information**    | **Devices**         | **Clipboard**      | **Processes**         |
+|---------------------------|---------------------|--------------------|-----------------------|
+| ComputerInfo              | Webcam              | ClipboardSet       | ProcessList           |
+| BatteryInfo               | Microphone          | ClipboardGet       | ProcessKill           |
+| Location                  | OpenCD              |                    | ProcessStart          |
+| Whois                     | CloseCD             |                    | TaskManagerDisable    |
+| ActiveWindow              |                     |                    | TaskManagerEnable     |
+| Desktop                   |                     |                    | MinimizeAllWindows    |
+| GetPasswords              |                     |                    | MaximizeAllWindows    |
+| GetCreditCards            |                     |                    |                       |
+| GetHistory                |                     |                    |                       |
+| GetBookmarks              |                     |                    |                       |
+| GetCookies                |                     |                    |                       |
+| GetDesktop                |                     |                    |                       |
 
-| **Files and Directories** | **Applications and Platforms** | **Network** | **Download and Upload** |
-|---------------------------|-------------------------------|-------------|------------------------|
-| ListFiles                 | GetFileZilla                  | NetDiscover | DownloadFile           |
-| RemoveFile                | GetDiscord                    |             | UploadFile             |
-| RemoveDir                 | GetTelegram                   |             |                        |
-| MoveFile                  | GetSteam                      |             |                        |
-| MoveDir                   |                               |             |                        |
-| CopyFile                  |                               |             |                        |
-| CopyDir                   |                               |             |                        |
-| EncryptFileSystem         |                               |             |                        |
-| DecryptFileSystem         |                               |             |                        |
+| **Files and Directories** | **Applications and Platforms** | **Network**        | **Download and Upload** |
+|---------------------------|--------------------------------|--------------------|-------------------------|
+| ListFiles                 | GetFileZilla                   | NetDiscover        | DownloadFile            |
+| RemoveFile                | GetDiscord                     |                    | UploadFile              |
+| RemoveDir                 | GetTelegram                    |                    |                         |
+| MoveFile                  | GetSteam                       |                    |                         |
+| MoveDir                   |                                |                    |                         |
+| CopyFile                  |                                |                    |                         |
+| CopyDir                   |                                |                    |                         |
+| EncryptFileSystem         |                                |                    |                         |
+| DecryptFileSystem         |                                |                    |                         |
 
-| **Running Files** | **Audio** | **Display and Input** | **System** | **Others** |
-|-------------------|-----------|----------------------|------------|------------|
-| RunFile           | AudioVolumeSet  | SetWallPaper      | Shell      | Speak      |
-| RunFileAdmin      | AudioVolumeGet  | BlockInput        | MessageBox | Help       |
-|                   |                 | Monitor(off/on)   | OpenURL    | About      |
-|                   |                 | DisplayRotate     | SendKeyPress | Uninstall |
-|                   |                 |                    | ForkBomb   |            |
-|                   |                 |                    | BsoD       |            |
-|                   |                 |                    | OverwriteBootSector |    |
-|                   |                 |                    | Shutdown   |            |
-|                   |                 |                    | Reboot     |            |
-|                   |                 |                    | Hibernate  |            |
-|                   |                 |                    | Logoff     |            |
+| **Running Files**         | **Audio**         | **Display and Input** | **System**         | **Others**  |
+|---------------------------|-------------------|-----------------------|--------------------|-------------|
+| RunFile                   | AudioVolumeSet    | SetWallPaper          | Shell              | Speak       |
+| RunFileAdmin              | AudioVolumeGet    | BlockInput            | MessageBox         | Help        |
+|                           |                   | Monitor(off/on)       | OpenURL            | About       |
+|                           |                   | DisplayRotate         | SendKeyPress       | Uninstall   |
+|                           |                   |                       | ForkBomb           |             |
+|                           |                   |                       | BsoD               |             |
+|                           |                   |                       | OverwriteBootSector|             |
+|                           |                   |                       | Shutdown           |             |
+|                           |                   |                       | Reboot             |             |
+|                           |                   |                       | Hibernate          |             |
+|                           |                   |                       | Logoff             |             |
 
 # :hammer: Compiling Guide:
 
