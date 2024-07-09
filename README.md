@@ -103,7 +103,7 @@ Program for remote control of Windows computers via Telegram bot. Written in C#.
    ![](images/createBot.JPG)
 
 2. Now you need to get your chat ID. To do this, go to the next bot [@chatid_echo_bot](https://t.me/chatid_echo_bot) and save the ID.  
-   ![](images/chatidBot.JPG)
+   ![](images/ChatIdBot.jpg)
 
 3. Download [Visual Studio 2019](https://visualstudio.microsoft.com/en/vs/)  
    ![](images/vs.JPG)
