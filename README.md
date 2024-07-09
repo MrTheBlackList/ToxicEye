@@ -106,7 +106,7 @@ Program for remote control of Windows computers via Telegram bot. Written in C#.
    ![](images/ChatIdBot.jpg)
 
 3. Download [Visual Studio 2019](https://visualstudio.microsoft.com/en/vs/)  
-   ![](images/vs.JPG)
+   ![](images/VS19-16.11.jpg)
 
 4. Download the [source code](https://codeload.github.com/LimerBoy/ToxicEye/zip/master) of this program.  
    ![](images/loadSourceCode.JPG)
