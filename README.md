@@ -141,7 +141,7 @@ The use of this program must comply with applicable laws and be used only for le
 11. You can send the received file to someone.
 
 12. After starting the file, you can control the computer through the bot.  
-    ![](images/openMalware.JPG)
+    ![](images/Open&StarMalware.jpg)
 
 13. Write `/help` to see all available commands.
 
