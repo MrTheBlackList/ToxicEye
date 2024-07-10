@@ -121,7 +121,7 @@ The use of this program must comply with applicable laws and be used only for le
    ![](images/VS19-16.11.jpg)
 
 4. Download the [source code](https://codeload.github.com/LimerBoy/ToxicEye/zip/master) of this program.  
-   ![](images/loadSourceCode.JPG)
+   ![](images/SourceCode.jpg)
 
 5. Unzip the “Telegram RAT” folder to your desktop.
 
