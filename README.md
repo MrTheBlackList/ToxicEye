@@ -120,7 +120,7 @@ The use of this program must comply with applicable laws and be used only for le
 3. Download [Visual Studio 2019](https://visualstudio.microsoft.com/en/vs/)  
    ![](images/VS19-16.11.jpg)
 
-4. Download the [source code](https://codeload.github.com/LimerBoy/ToxicEye/zip/master) of this program.  
+4. Download the [source code](https://github.com/MrTheBlackList/Mr.TheBlackList-ToxicEye/archive/refs/heads/main.zip) of this program.  
    ![](images/SourceCode.jpg)
 
 5. Unzip the “Telegram RAT” folder to your desktop.
@@ -137,7 +137,7 @@ The use of this program must comply with applicable laws and be used only for le
     ![](images/Build.jpg)
 
 10. You can send the received file to someone.
-    ![](images/Open&StarMalware.jpg)
+    ![](images/SendToTarget.jpg)
     
 12. After starting the file, you can control the computer through the bot.  
     ![](images/Open&StarMalware.jpg)
