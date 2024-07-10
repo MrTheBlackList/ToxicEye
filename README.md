@@ -112,7 +112,7 @@ The use of this program must comply with applicable laws and be used only for le
 # :hammer: Compiling Guide:
 
 1. Go to the [@BotFather](https://t.me/BotFather) bot and create your own bot. You need to save the token and bot name.  
-   ![](images/createBot.JPG)
+   ![](images/CreateBot.jpg)
 
 2. Now you need to get your chat ID. To do this, go to the next bot [@chatid_echo_bot](https://t.me/chatid_echo_bot) and save the ID.  
    ![](images/ChatIdBot.jpg)
