@@ -133,7 +133,7 @@ The use of this program must comply with applicable laws and be used only for le
 8. Insert your token from the bot and your chat ID that you received earlier.
 
 9. Above, you need to select ”Release”.  
-   ![](images/saveConfig.JPG)
+   ![](images/SaveConfig.jpg)
 
 10. Press `CTRL + S` to save and `CTRL + B` to compile everything into an executable file.  
     ![](images/build.JPG)
