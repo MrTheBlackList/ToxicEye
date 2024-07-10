@@ -1,8 +1,21 @@
-# :trident: ToxicEye 
-
 <p align="center">
   <img src="images/logo.png">
 </p>
+
+This program is specifically designed for educational purposes and to raise awareness about the dangers of malware attacks. We emphasize the importance of understanding how such attacks can occur and how they can be controlled to protect oneself from digital threats. 
+
+**Remote Control Program for Windows Computers via Telegram Bot**
+
+**Description:**
+This program allows remote control of Windows computers through a Telegram bot. Written in C#, it provides users with the ability to control various computer functions remotely.
+
+**Objectives:**
+
+- **Education:** Provide users with an understanding of potential malware threats and the techniques used by attackers.
+- **Awareness:** Emphasize the importance of security measures in protecting computer systems from attacks that can remotely control computers.
+
+**Warning:**
+The use of this program must comply with applicable laws and be used only for legitimate purposes such as education and security testing of one's own systems. Misuse of the program for illegal activities, such as accessing others' systems without permission, is a criminal act and can result in serious legal consequences.
 
 # :fallen_leaf: Functions:
 
