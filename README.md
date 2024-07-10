@@ -1,5 +1,4 @@
 # :trident: ToxicEye 
-Program for remote control of Windows computers via Telegram bot. Written in C#.
 
 <p align="center">
   <img src="images/logo.png">
