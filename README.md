@@ -128,7 +128,7 @@ The use of this program must comply with applicable laws and be used only for le
 6. Open the `TelegramRAT.sln` file through Visual Studio.
 
 7. Open the `config.cs` file in the project.  
-   ![](images/openConfig.JPG)
+   ![](images/OpenConfig.jpg)
 
 8. Insert your token from the bot and your chat ID that you received earlier.
 
