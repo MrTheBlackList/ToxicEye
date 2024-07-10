@@ -136,7 +136,7 @@ The use of this program must comply with applicable laws and be used only for le
    ![](images/SaveConfig.jpg)
 
 10. Press `CTRL + S` to save and `CTRL + B` to compile everything into an executable file.  
-    ![](images/build.JPG)
+    ![](images/Build.jpg)
 
 11. You can send the received file to someone.
 
